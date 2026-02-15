@@ -1,5 +1,5 @@
 {
-    "name": "externity-os",
+    "name": "externityos",
     "compatibility_date": "2025-02-15",
     "assets": {
         "directory": "./dist"
